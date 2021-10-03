@@ -1,0 +1,1 @@
+ćwiczenia dla testerów
